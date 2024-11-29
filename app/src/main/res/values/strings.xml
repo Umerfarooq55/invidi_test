@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="error_loading_media">Error loading media.Please check your connection.</string>
+    <string name="renderer_error">Renderer error occurred. Please try again.</string>
+    <string name="network_error">Network error. Please check your connection.</string>
+    <string name="unexpected_error">An unexpected error occurred.</string>
+</resources>
